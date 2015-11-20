@@ -9,9 +9,7 @@ This is a guet ipcliet for any system
 
     python -V
 
-2. you should ensure the tesseract software was installed
-
-  example: follow this command on unbuntu
+2. you should ensure the tesseract software was installed,example: follow this command on unbuntu
 
 
     sudo apt-get install tesseract-ocr
@@ -24,4 +22,4 @@ This is a guet ipcliet for any system
 
     ./python_ipclient
 
-**maybe you need run sudo chmod a+x ptyhon_ipclient**
+**maybe you need run sudo chmod a+x ./ipclient.py**
