@@ -17,7 +17,7 @@ This is a guet ipclient for any system
 
     cd python_ipclient/Http_ipclient
 
-    ./python_ipclient
+    ./ipclient.py
 
 
 **maybe you need run `sudo chmod a+x ./ipclient.py`**
@@ -36,7 +36,7 @@ This is a guet ipclient for any system
 
     cd python_ipclient/Socket_ipclient
 
-    ./python_ipclient
+    ./ipclient.py
 
 
 **maybe you need run `sudo chmod a+x ./ipclient.py`**
